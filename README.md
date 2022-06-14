@@ -1,7 +1,7 @@
 # nand2tetris
 
 - [x] Project 01
-- [ ] Project 02
+- [x] Project 02
 - [ ] Project 03
 - [ ] Project 04
 - [ ] Project 05
