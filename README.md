@@ -2,7 +2,7 @@
 
 - [x] Project 01
 - [x] Project 02
-- [ ] Project 03
+- [x] Project 03
 - [ ] Project 04
 - [ ] Project 05
 - [ ] Project 06
